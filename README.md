@@ -1,2 +1,2 @@
 # ArduinoForm
-Control your Arduino using C# windows form application.
+use winform control the arduino
